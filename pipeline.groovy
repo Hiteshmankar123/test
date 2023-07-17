@@ -1,9 +1,13 @@
-ipeline {
+pipeline {
     agent any
     stages {
-        stage(‘Build’) {
+        stage('Build') {
             steps {
-                sh 'npm --version'
+                sh 'echo "Hello World"'
+                sh '''
+                    echo "Multiline shell steps"
+                    ls –lah
+                '''
             }
         }
     }
