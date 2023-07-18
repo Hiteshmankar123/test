@@ -11,4 +11,4 @@ print(type(price))
 print(type(enjoying))
 
 Channel = "Train With Hitesh"
-print("My Channel name is", channel)
+print("My channel name is", channel)
