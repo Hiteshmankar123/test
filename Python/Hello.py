@@ -6,4 +6,4 @@ price = 0.0
 enjoying = True
 
 print(type(name))
-print
+print(type())
