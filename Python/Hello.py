@@ -9,7 +9,7 @@ print(type(name))
 print(type(age))
 print(type(price))
 print(type(enjoying))
-print(type()))
+print(type(name))
 
 Channel = "Train With Hitesh"
 print("My channel name is", Channel)
