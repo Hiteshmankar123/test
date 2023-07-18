@@ -9,7 +9,7 @@ print(type(name))
 print(type(age))
 print(type(price))
 print(type(enjoying))
-print(type(ComboBox))
+print(type())yes
 
 Channel = "Train With Hitesh"
 print("My channel name is", Channel)
