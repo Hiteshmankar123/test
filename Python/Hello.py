@@ -8,4 +8,4 @@ enjoying = True
 print(type(name))
 print(type(age))
 print(type(price))
-print(type())
+print(type(enjoying))
