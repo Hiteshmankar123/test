@@ -5,4 +5,5 @@ age = 27
 price = 0.0
 enjoying = True
 
-print(type (name))
+print(type(name))
+print
