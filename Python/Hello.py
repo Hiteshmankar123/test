@@ -10,4 +10,4 @@ print(type(age))
 print(type(price))
 print(type(enjoying))
 
-Channe
+Channel = 
