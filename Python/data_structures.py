@@ -1,3 +1,3 @@
 list_of_num = []
 
-print ()
+print (type(list_of))
