@@ -10,6 +10,6 @@ if choice = "-":
 if choice = "*"
    mul = num_1 * num_2
    print("The product is ", mul)
-   
+if choice = ""   
 div = num_1 / num_2
 print("The quotient is ", div)
