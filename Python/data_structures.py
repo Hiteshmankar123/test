@@ -8,4 +8,5 @@ print (type(list_of_num))
 
 list_of_cloud = ["aws","azure","gcp","oracle"]
 list_of_env = ["dev", "test","prod"]
-list_of_env 
+
+print
