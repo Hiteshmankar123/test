@@ -7,7 +7,7 @@ elif choice == "+":
 elif choice == "-":
      diff = num_1 - num_2
      print("The difference is ", diff)
-elif choice == "*"
+elif choice == "*":
      mul = num_1 * num_2
      print("The product is ", mul)
 elif choice == "/":
