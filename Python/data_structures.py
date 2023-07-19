@@ -6,4 +6,4 @@ list_of_num.append("Hitesh")
 print (type(list_of_num))
 
 
-list_of_cloud = [""]
+list_of_cloud = ["aws","azure",]
