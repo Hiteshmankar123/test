@@ -8,10 +8,10 @@ elif choice = "-":
      diff = num_1 - num_2
      print("The difference is ", diff)
 elif choice = "*"
-   mul = num_1 * num_2
-   print("The product is ", mul)
+     mul = num_1 * num_2
+     print("The product is ", mul)
 elif choice = "/"   
-    div = num_1 / num_2
-   print("The quotient is ", div)
+     div = num_1 / num_2
+     print("The quotient is ", div)
 else: 
-   print("Invalid choice")  
+     print("Invalid choice")  
