@@ -13,5 +13,5 @@ if choice = "*"
 if choice = "/"   
    div = num_1 / num_2
    print("The quotient is ", div)
-elase: 
-    invalid    
+else: 
+    printinvalid    
