@@ -7,6 +7,7 @@ if choice = "+":
 if choice = "-":
    diff = num_1 - num_2
    print("The difference is ", diff)
+if choice
 mul = num_1 * num_2
 print("The product is ", mul)
 div = num_1 / num_2
