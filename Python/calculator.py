@@ -14,4 +14,4 @@ if choice = "/"
    div = num_1 / num_2
    print("The quotient is ", div)
 else: 
-    print(invalid )  
+    print("invalid choice" )  
