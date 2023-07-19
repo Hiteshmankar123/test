@@ -4,7 +4,7 @@ choice = input("Enter the opeeration + - * /")
 if choice = "+":
    sum = num_1 + num_2
    print("The sum is", sum) 
-
+if 
 diff = num_1 - num_2
 print("The difference is ", diff)
 mul = num_1 * num_2
