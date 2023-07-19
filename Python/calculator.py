@@ -5,4 +5,5 @@ sum = num_1 + num_2
 print("The sum is", sum) 
 diff = num_1 - num_2
 print("The difference is ", diff)
-mul = num_1 * num2
+mul = num_1 * num_2
+print()
