@@ -10,3 +10,4 @@ list_of_cloud = ["aws","azure","gcp","oracle"]
 list_of_env = ["dev", "test","prod"]
 
 print(list_of_cloud)
+index_
