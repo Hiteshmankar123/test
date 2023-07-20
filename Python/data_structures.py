@@ -21,7 +21,7 @@ dict_of_cloud = {
     "gcp": "Google Cloud Platform"
 }
 print(dict_of_cloud["aws"])
-print(dict_of_cloud.get("linode":"linod"Not found"))
+print(dict_of_cloud.get("linode":"linod cloud"Not found"))
      
 print(dict_of_cloud["aws"])  
 print(dict_of_cloud["azure"])
