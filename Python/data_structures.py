@@ -23,7 +23,7 @@ dict_of_cloud = {
 print(dict_of_cloud["aws"])
 print(dict_of_cloud.get("linode","Not found"))
 
-dict
+dict_of_cloud.update()
      
 print(dict_of_cloud["aws"])  
 print(dict_of_cloud["azure"])
