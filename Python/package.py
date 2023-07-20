@@ -1,2 +1,2 @@
 import os
-print(os.eg)
+print(os.getcwd())
