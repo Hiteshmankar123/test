@@ -20,6 +20,7 @@ dict_of_cloud = {
     "azure": "Microsoft Azure",
     "gcp": "Google Cloud Platform"
 }
+
 print(dict_of_cloud["aws"])
 print(dict_of_cloud.get("linode","Not found"))
 
