@@ -22,4 +22,4 @@ dict_of_cloud = {
 }
 print(dict_of_cloud["aws"])
      
-print     
+print(dict)     
