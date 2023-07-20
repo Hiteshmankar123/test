@@ -21,6 +21,7 @@ dict_of_cloud = {
     "gcp": "Google Cloud Platform"
 }
 print(dict_of_cloud["aws"])
+
      
 print(dict_of_cloud["aws"])  
 print(dict_of_cloud["azure"])
