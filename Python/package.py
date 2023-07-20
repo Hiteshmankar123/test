@@ -3,4 +3,4 @@ import shutil
 
 print(os.getcwd())
 
-shutil
+shutil.disk_usage()
