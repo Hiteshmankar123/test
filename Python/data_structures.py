@@ -18,7 +18,8 @@ for cloud in list_of_cloud:
 dict_of_cloud = {
     "aws":"Amazon Web Services",
     "azure": "Microsoft Azure",
-    "gcp": ""     
+    "gcp": "Google Cloud Platform"
+         
        
      
 # disc
