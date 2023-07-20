@@ -20,7 +20,7 @@ dict_of_cloud = {
     "azure": "Microsoft Azure",
     "gcp": "Google Cloud Platform"
 }
-dict_of_cloud["aws"])
+print(dict_of_cloud["aws"])
      
        
      
