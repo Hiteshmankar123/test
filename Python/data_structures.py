@@ -9,5 +9,5 @@ print (type(list_of_num))
 list_of_cloud = ["aws","azure","gcp","oracle", "IBM"]
 list_of_env = ["dev", "test","prod"]
 
-# list itera
+# list iteration 
 print(list_of_cloud[4])
