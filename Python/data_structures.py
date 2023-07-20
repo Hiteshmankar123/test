@@ -16,7 +16,8 @@ for cloud in list_of_cloud:
      
 # dictionary 
 dict_of_cloud = {
-    "aws":"Amazon W"     
+    "aws":"Amazon Web Services",
+    "azure": ""     
        
      
 # disc
