@@ -12,4 +12,4 @@ list_of_env = ["dev", "test","prod"]
 # list iteration 
 for cloud in list_of_cloud:
     if cloud =="aws":
-     print(list_of_cloud[4])
+     print("")
