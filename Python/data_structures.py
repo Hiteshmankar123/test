@@ -10,4 +10,5 @@ list_of_cloud = ["aws","azure","gcp","oracle", "IBM"]
 list_of_env = ["dev", "test","prod"]
 
 # list iteration 
+for cloud in list_of_cloud
 print(list_of_cloud[4])
