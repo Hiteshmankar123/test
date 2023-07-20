@@ -19,7 +19,9 @@ dict_of_cloud = {
     "aws":"Amazon Web Services",
     "azure": "Microsoft Azure",
     "gcp": "Google Cloud Platform"
-         
+}
+
+     
        
      
 # disc
