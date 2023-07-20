@@ -3,4 +3,4 @@ import shutil
 
 print(os.getcwd())
 
-totshutil.disk_usage("/") 
+total, used,  freeshutil.disk_usage("/") 
